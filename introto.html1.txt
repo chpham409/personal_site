@@ -1,0 +1,9 @@
+<!DOCTYPE html1>
+<html>
+<body>
+
+<h2>HTML Image</h2>
+<img src="detailV2&ccid=Lcjh6N3k&id=B36</1E75D663A16C28CA9BCB2E6BD370BA080C176&thid=OIP.Lcjh6N3kTAc_c9oy0zGx4AHaJ4&mediaurl=http%3a%2f%2f3.bp.blogspot.com%2f-4FI7VUt11ZY%2fTnb7nP1ay5I%2fAAAAAAAAAYM%2fnxvZfpU-1ls%2fs1600%2fborderterrier.xskyliehs15P13H12L12C20G.JPG&exph=1120&expw=840&q=Border+Terrier+Dogs&simid=608041608351452589&ck=F829333E9D6014BFF0084FBCFC780C26&selectedIndex=0&FORM=IRPRST&ajaxhist=0
+
+</body>
+</html>
